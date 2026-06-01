@@ -12,8 +12,9 @@ AI-powered recommendation system using CLIP to analyze clothing styles and gener
 Offline-first mobile application that recommends recipes based on available ingredients.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-gohel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishgohel61@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Gohel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gohel/)
+[![Email](https://img.shields.io/badge/Email-krishgohel61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishgohel61@gmail.com)
 
 # Tech Stack:
 
