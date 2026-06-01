@@ -1,15 +1,5 @@
-#  About Me:
+#  About Me
 Building systems, not just features. Focused on creating scalable applications, intelligent systems, and products that solve real-world problems through thoughtful software engineering and system design.
-
-##  Featured Projects:
-###  CityFix
-Full-stack civic issue reporting platform with role-based workflows, NGO assignment, automated notifications, and real-time issue tracking.
-
-### AI Thrift Store
-AI-powered recommendation system using CLIP to analyze clothing styles and generate personalized suggestions.
-
-### Left2Chef
-Offline-first mobile application that recommends recipes based on available ingredients.
 
 ## Socials:
 
@@ -36,9 +26,3 @@ Offline-first mobile application that recommends recipes based on available ingr
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# GitHub Activity
-
-![](https://github-readme-stats.shion.dev/api?username=Krish7377&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![](https://streak-stats.demolab.com/?user=Krish7377&theme=github_dark&hide_border=true)
