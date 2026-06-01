@@ -13,8 +13,7 @@ Offline-first mobile application that recommends recipes based on available ingr
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Gohel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gohel/)
-[![Email](https://img.shields.io/badge/Email-krishgohel61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishgohel61@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gohel/)
 
 # Tech Stack:
 
